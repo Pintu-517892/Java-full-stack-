@@ -1,48 +1,51 @@
-<!--
-  Pintu Sharma | Java Developer / Java Full Stack Developer / SDE
-  Portfolio README. Project descriptions are labelled as planned until their repositories are published.
--->
+<!-- Pintu Sharma | Java Developer Portfolio -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:1E3A8A,100:4338CA&height=190&section=header&text=PINTU%20SHARMA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20SDE&descAlignY=62&descSize=13" alt="Pintu Sharma developer profile banner" />
+# 👋 Hi, I'm Pintu Sharma
 
-**Java · Spring Boot · Angular · REST APIs**
+### Java Developer · Java Full Stack Developer · Software Development Engineer
 
-Building maintainable backend services and practical full-stack applications.
+**Java | Spring Boot | Angular | REST APIs | Microservices**
 
-<a href="https://github.com/Pintu-517892">
-  <img src="https://img.shields.io/badge/GitHub-Pintu--517892-181717?style=flat-square&logo=github" alt="GitHub profile" />
-</a>
+*I enjoy building reliable backend services and practical full-stack applications.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Pintu--517892-181717?style=flat-square&logo=github)](https://github.com/Pintu-517892)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **Java Developer** aspiring to grow as a **Java Full Stack Developer**, with a strong interest in backend engineering and building end-to-end web applications. I work with Java and the Spring ecosystem, and I'm developing my frontend skills with Angular and TypeScript.
+I'm a **Java Developer** aspiring to grow as a **Java Full Stack Developer**, focused on backend engineering and end-to-end application development. I work with Java and the Spring ecosystem, and build my frontend skills with Angular and TypeScript.
 
-My interests include REST API development, microservices architecture, database design and optimization, authentication and authorization, cloud and DevOps practices, and practical software problem-solving. I value clean code, clear design decisions, and building software that is secure, testable, and maintainable.
+I'm interested in designing clean REST APIs, building secure services, working with relational and NoSQL databases, and understanding how applications are developed, tested, and deployed. I value readable code, practical problem-solving, and continuous learning.
 
-## Roles I'm Open To
+- 🔹 Backend development with Java and Spring Boot
+- 🔹 Full-stack application development with Angular
+- 🔹 REST API design, authentication, and authorization
+- 🔹 Microservices, messaging, and database integration
+- 🔹 Cloud, Linux, containers, and CI/CD practices
 
-- **Java Developer**
-- **Java Full Stack Developer**
-- **Software Development Engineer (SDE)**
+## 🎯 Roles I'm Open To
+
+| Role | Focus |
+|---|---|
+| **Java Developer** | Core Java, Spring Boot, REST APIs |
+| **Java Full Stack Developer** | Java backend, Angular frontend, database integration |
+| **Software Development Engineer (SDE)** | Problem-solving, application development, and software design |
 
 ---
 
-## Technical Skills
+## 🧰 Technical Skills
 
-The skills below reflect the technologies I study and work with across Java development. The featured projects are marked as planned until their implementations and repositories are available.
-
-| Category | Skills |
+| Category | Technologies |
 |---|---|
 | **Programming Languages** | Java 8, Java 11, Java 17, SQL, JavaScript, TypeScript |
 | **Core Java** | OOP, Collections Framework, Generics, Exception Handling, Multithreading, Lambda Expressions, Stream API |
-| **Backend Development** | Spring Framework, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs |
-| **Security** | Spring Security, JWT Authentication, Authentication & Authorization |
+| **Backend Development** | Spring Framework, Spring Boot, Spring MVC, Spring Data JPA, Hibernate |
+| **API & Security** | REST APIs, Spring Security, JWT Authentication, Authentication & Authorization |
 | **Microservices & Messaging** | Microservices Architecture, Spring Cloud, API Gateway, Service Discovery, OpenFeign, Apache Kafka |
 | **Frontend Development** | Angular, HTML5, CSS3, Bootstrap, TypeScript |
 | **Databases & Caching** | MySQL, PostgreSQL, MongoDB, Redis |
@@ -50,94 +53,143 @@ The skills below reflect the technologies I study and work with across Java deve
 | **Testing & API Tools** | JUnit, Mockito, Postman, Swagger / OpenAPI |
 | **Development Tools** | Git, GitHub, Maven, VS Code, IntelliJ IDEA |
 
-## Technology Stack
+## ⚙️ Technology Stack
 
-<p align="center">
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=java,js,ts" alt="Java, JavaScript and TypeScript" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Backend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Spring and Hibernate" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts" alt="Java, JavaScript and TypeScript" />
 
-<p align="center">
-  <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" alt="Angular, HTML, CSS and Bootstrap" />
-</p>
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Spring and Hibernate" />
 
-<p align="center">
-  <strong>Databases & Messaging</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" alt="MySQL, PostgreSQL, MongoDB, Redis and Kafka" />
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" alt="Angular, HTML, CSS and Bootstrap" />
 
-<p align="center">
-  <strong>Cloud & DevOps</strong><br/>
-  <img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,jenkins" alt="AWS, Linux, Bash, Docker, Kubernetes and Jenkins" />
-</p>
+**Databases & Messaging**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" alt="MySQL, PostgreSQL, MongoDB, Redis and Kafka" />
 
-<p align="center">
-  <strong>Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea" alt="Git, GitHub, Maven, Postman, VS Code and IntelliJ IDEA" />
-</p>
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,jenkins" alt="AWS, Linux, Bash, Docker, Kubernetes and Jenkins" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea" alt="Git, GitHub, Maven, Postman, VS Code and IntelliJ IDEA" />
+
+</div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-*These are portfolio project scopes. Repository links will be added when the projects are implemented and published. No repository links are shown until they exist.*
+> **Portfolio note:** These project descriptions define the intended scope. Repository links will be added when the implementations are published. They are not presented as completed projects.
 
-### 1. Authentication & Authorization Service
+### 🔐 1. Authentication & Authorization Service
 
-A Spring Boot security service designed to manage user identity and protect application resources through token-based authentication and role-based access control.
+A secure authentication service built around Spring Security and token-based access control. It is designed to protect application resources and manage user identities and roles.
 
 **Key features**
-- User registration and login workflows.
-- Spring Security integration for authentication and endpoint protection.
-- JWT-based access-token validation.
-- Access-token and refresh-token workflow.
-- Role-Based Access Control (RBAC) for protected resources.
-- Secure password hashing before credentials are stored.
-- REST APIs for authentication and user management.
-- PostgreSQL integration for user and role data.
+- User registration and login.
+- Spring Security configuration for endpoint protection.
+- JWT access-token generation and validation.
+- Refresh-token workflow and token expiration handling.
+- Role-Based Access Control (RBAC).
+- Secure password hashing before storage.
+- REST endpoints for authentication and user management.
+- PostgreSQL persistence for users, roles, and related data.
 
-**Technology stack:** Java · Spring Boot · Spring Security · JWT · PostgreSQL · REST APIs
+**Technology stack**
 
-### 2. E-Commerce Backend with Microservices
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-A backend platform scope for separating product, order, inventory, and payment-related responsibilities into independently organised services.
+**High-level request flow**
+
+```text
+Client → Login API → Authentication Manager
+       → User Details + Password Verification
+       → JWT Issued → Client
+       → Protected API → JWT Validation → Authorization → Response
+```
+
+### 🛒 2. E-Commerce Backend with Microservices
+
+A modular commerce backend designed to separate product, order, inventory, and payment responsibilities into focused services.
 
 **Key features**
 - Product catalogue and product-management APIs.
 - Order creation and order-status management.
 - Inventory availability and stock-update workflows.
-- Payment integration boundary for payment processing.
-- Service-to-service communication using REST APIs.
-- Event-driven communication with Apache Kafka.
+- Payment integration boundary.
+- REST-based communication between services.
+- Event-driven messaging with Apache Kafka.
 - PostgreSQL persistence for service data.
-- Spring Boot-based microservice structure.
+- Independent service responsibilities and API contracts.
 
-**Technology stack:** Java · Spring Boot · Microservices · Apache Kafka · PostgreSQL · REST APIs
+**Technology stack**
 
-### 3. Employee & Payroll Management System
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-A business application scope for managing employee information, departments, and payroll-related operations.
+**High-level service flow**
+
+```text
+Angular / API Client
+        |
+   API Gateway
+        |
+  +-----+---------+-------------+
+  |               |             |
+Product Service  Order Service  Inventory Service
+  |               |             |
+PostgreSQL      Kafka Events   PostgreSQL
+        |
+  Payment Integration
+```
+
+### ✈️ 3. Airline Reservation Management System
+
+A full-stack airline reservation application for flight discovery, passenger management, and booking workflows.
 
 **Key features**
-- Employee registration and profile management.
-- Department creation and employee-department mapping.
-- Salary records and payroll-processing workflows.
-- CRUD operations with request validation.
-- Hibernate / JPA entity relationships and persistence.
-- REST APIs for employee, department, and payroll operations.
-- PostgreSQL integration for relational data storage.
+- Search flights by source, destination, and travel date.
+- View flight schedules and availability.
+- Manage passenger details.
+- Create, view, and cancel reservations.
+- Validate booking requests and handle booking states.
+- Expose backend functionality through REST APIs.
+- Build an Angular interface for search and reservation workflows.
+- Store flight, passenger, and booking data in PostgreSQL.
 
-**Technology stack:** Java · Spring Boot · Hibernate / JPA · PostgreSQL · REST APIs
+**Technology stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**High-level booking flow**
+
+```text
+Angular UI → Flight Search API → Flight Service
+           → Availability Check → Booking API
+           → Reservation Service → PostgreSQL
+           → Booking Confirmation
+```
 
 ---
 
-## Engineering Interests
+## 🧠 Engineering Interests
 
 - Designing scalable and maintainable backend systems.
 - Building secure authentication and authorization systems.
@@ -147,9 +199,9 @@ A business application scope for managing employee information, departments, and
 - Exploring cloud-native application development.
 - Automating build, test, and deployment workflows with CI/CD.
 - Writing clean, reusable, and testable code.
-- Learning system design and software architecture fundamentals.
+- Learning system design and software architecture.
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pintu-517892&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub profile statistics" />
@@ -158,7 +210,7 @@ A business application scope for managing employee information, departments, and
   <img src="https://streak-stats.demolab.com?user=Pintu-517892&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
 </div>
 
-## GitHub Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintu-517892&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
@@ -166,8 +218,12 @@ A business application scope for managing employee information, departments, and
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 - **GitHub:** [github.com/Pintu-517892](https://github.com/Pintu-517892)
+
+<div align="center">
+
+*Thanks for visiting my profile. Always learning, building, and improving.*
 
 </div>
