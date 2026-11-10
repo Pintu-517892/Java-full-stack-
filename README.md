@@ -55,16 +55,23 @@ I'm interested in designing clean REST APIs, building secure services, working w
 
 ## Technology Stack
 
-A concise overview of the tools and technologies I use or am developing experience with.
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=java,js,ts" height="36" alt="Java, JavaScript and TypeScript" />
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Java, JavaScript, TypeScript, SQL |
-| **Backend** | Spring Framework, Spring Boot, Spring MVC, Spring Data JPA, Hibernate |
-| **Frontend** | Angular, HTML5, CSS3, Bootstrap |
-| **Databases & Messaging** | MySQL, PostgreSQL, MongoDB, Redis, Apache Kafka |
-| **Cloud & DevOps** | AWS, Linux, Shell Scripting, Docker, Kubernetes, Jenkins, CI/CD |
-| **Tools** | Git, GitHub, Maven, Postman, VS Code, IntelliJ IDEA |
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=spring,hibernate" height="36" alt="Spring and Hibernate" />
+
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" height="36" alt="Angular, HTML, CSS and Bootstrap" />
+
+**Databases & Messaging:**  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" height="36" alt="MySQL, PostgreSQL, MongoDB, Redis and Kafka" />
+
+**Cloud & DevOps:**  
+<img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,jenkins" height="36" alt="AWS, Linux, Bash, Docker, Kubernetes and Jenkins" />
+
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea" height="36" alt="Git, GitHub, Maven, Postman, VS Code and IntelliJ IDEA" />
 
 
 ---
