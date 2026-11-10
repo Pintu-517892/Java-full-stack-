@@ -15,8 +15,7 @@ Building reliable backend services and clean, user-focused web applications.
   <a href="https://github.com/Pintu-517892">
     <img src="https://img.shields.io/badge/GitHub-Pintu--517892-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+ 
   </a>
 </p>
 
