@@ -68,8 +68,6 @@ I'm interested in designing clean REST APIs, building secure services, working w
 
 ## 🚀 Featured Projects
 
-> **Portfolio note:** These project descriptions define the intended scope. Repository links will be added when the implementations are published. They are not presented as completed projects.
-
 ### 🔐 1. Authentication & Authorization Service
 
 A secure authentication service built around Spring Security and token-based access control. It is designed to protect application resources and manage user identities and roles.
