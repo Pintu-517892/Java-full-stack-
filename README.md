@@ -53,35 +53,19 @@ I'm interested in designing clean REST APIs, building secure services, working w
 | **Testing & API Tools** | JUnit, Mockito, Postman, Swagger / OpenAPI |
 | **Development Tools** | Git, GitHub, Maven, VS Code, IntelliJ IDEA |
 
-## ⚙️ Technology Stack
+## Technology Stack
 
-<div align="center">
+A concise overview of the tools and technologies I use or am developing experience with.
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts" alt="Java, JavaScript and TypeScript" />
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript, TypeScript, SQL |
+| **Backend** | Spring Framework, Spring Boot, Spring MVC, Spring Data JPA, Hibernate |
+| **Frontend** | Angular, HTML5, CSS3, Bootstrap |
+| **Databases & Messaging** | MySQL, PostgreSQL, MongoDB, Redis, Apache Kafka |
+| **Cloud & DevOps** | AWS, Linux, Shell Scripting, Docker, Kubernetes, Jenkins, CI/CD |
+| **Tools** | Git, GitHub, Maven, Postman, VS Code, IntelliJ IDEA |
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Spring and Hibernate" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" alt="Angular, HTML, CSS and Bootstrap" />
-
-**Databases & Messaging**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" alt="MySQL, PostgreSQL, MongoDB, Redis and Kafka" />
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,jenkins" alt="AWS, Linux, Bash, Docker, Kubernetes and Jenkins" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea" alt="Git, GitHub, Maven, Postman, VS Code and IntelliJ IDEA" />
-
-</div>
 
 ---
 
