@@ -1,109 +1,143 @@
 <!--
-  README for Pintu Sharma.
-  Keep project status and technology claims accurate as your work evolves.
+  Pintu Sharma | Java Full Stack Developer
+  Update project links and skill levels as work is completed and verified.
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:2563EB&height=210&section=header&text=PINTU%20SHARMA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=17" alt="Pintu Sharma — Java Full Stack Developer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:123C55,100:2563EB&height=220&section=header&text=PINTU%20SHARMA&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18" alt="Pintu Sharma — Java Full Stack Developer" />
+
+### Building robust Java applications. Designing clean APIs. Creating useful web experiences.
 
 <a href="https://github.com/Pintu-517892">
-  <img src="https://img.shields.io/badge/GitHub-Pintu--517892-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-Pintu--517892-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
-<img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20Boot%20%7C%20React-0F766E?style=for-the-badge" alt="Development focus" />
-
-<br/>
-
-*Turning requirements into reliable APIs, maintainable services, and useful web applications.*
+<img src="https://img.shields.io/badge/Primary%20Stack-Java%20%7C%20Spring%20Boot%20%7C%20Angular-146C6C?style=for-the-badge" alt="Primary technology stack" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I’m a Java Full Stack Developer focused on building practical web applications with **Java, Spring Boot, REST APIs, relational databases, and React**. I enjoy understanding how a feature works end to end—from designing the data model and implementing backend business logic to connecting APIs with a responsive user interface.
+I’m a **Java Full Stack Developer** interested in building dependable, maintainable web applications from the database layer to the user interface. My primary focus is **Java and the Spring ecosystem**, with **Angular** for frontend development.
 
-My development approach is grounded in readable code, clear separation of responsibilities, secure-by-design thinking, and testing the behaviour that matters. I’m continuously strengthening my skills in backend architecture, authentication, database performance, and deployment practices.
+I like understanding the complete lifecycle of a feature: clarifying requirements, modelling data, writing business logic, exposing well-designed REST APIs, integrating the frontend, and testing the result. I value straightforward solutions, readable code, and engineering decisions that can be explained—not complexity for its own sake.
 
-- 🔭 **Building:** Java and Spring Boot application projects with real-world workflows.
-- ⚙️ **Backend interests:** REST API design, Spring Data JPA, validation, exception handling, and security.
-- 🖥️ **Frontend interests:** React, JavaScript, reusable components, and responsive interfaces.
-- 🗄️ **Data:** Relational schema design, SQL, and efficient database access.
-- 🧪 **Quality:** Unit testing, API testing, debugging, and maintainable code.
-- 🌱 **Learning next:** Microservices patterns, Docker, CI/CD, and cloud deployment.
-- 🎯 **Goal:** Deliver software that is understandable, testable, secure, and useful.
+- 🔹 **Backend-first mindset:** Java, Spring Boot, REST API design, and persistence.
+- 🔹 **Full-stack delivery:** Angular interfaces integrated with backend services.
+- 🔹 **Secure development:** authentication, authorization, validation, and safe handling of credentials.
+- 🔹 **Data-focused:** relational database design, SQL, transactions, and query efficiency.
+- 🔹 **Quality-minded:** unit testing, API testing, debugging, and clear documentation.
+- 🔹 **Growth areas:** microservices, containerization, CI/CD, and cloud deployment.
 
-## 🧰 Technology Stack
+> I aim to write software that another developer can understand, test, maintain, and extend.
 
-<p align="center">
-  <strong>Backend & Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python" height="52" alt="Java, Spring, Hibernate and Python icons" />
-</p>
+## 🧩 Technical Skills
 
-<p align="center">
-  <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" height="52" alt="React, JavaScript, HTML and CSS icons" />
-</p>
+A resume-style breakdown of my Java Full Stack toolkit:
 
-<p align="center">
-  <strong>Databases, Messaging & Cache</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" height="52" alt="PostgreSQL, MySQL, MongoDB, Redis and Kafka icons" />
-</p>
-
-<p align="center">
-  <strong>Tools & Delivery</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,docker,aws,jenkins" height="52" alt="Git, GitHub, Maven, Postman, Docker, AWS and Jenkins icons" />
-</p>
+| Category | Skills |
+|---|---|
+| **Programming Language** | Java (8, 11, 17), SQL |
+| **Core Java** | OOP, Collections Framework, Generics, Exception Handling, Multithreading, Lambda Expressions, Stream API |
+| **Backend Development** | Spring Framework, Spring Boot, Spring MVC, Spring Data JPA, Hibernate / JPA |
+| **API Development** | RESTful APIs, CRUD Operations, DTOs, Bean Validation, Exception Handling, Swagger / OpenAPI |
+| **Security** | Spring Security, JWT Authentication, Role-Based Authorization |
+| **Frontend Development** | Angular, TypeScript, JavaScript, HTML5, CSS3 |
+| **Microservices** | Spring Cloud, API Gateway, Service Discovery, OpenFeign |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Messaging & Caching** | Apache Kafka, Redis |
+| **Testing & API Tools** | JUnit 5, Mockito, Postman |
+| **Build & Developer Tools** | Maven, Git, GitHub, IntelliJ IDEA, VS Code |
+| **DevOps & Cloud** | Docker, Jenkins, GitHub Actions, CI/CD, AWS |
 
 <p align="center">
-  <sub>Technology logos are shown as visual icons; actual proficiency varies by tool and grows through hands-on projects.</sub>
+  <strong>Visual Tech Stack</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,ts,js,html,css,postgres,mysql,mongodb,redis,kafka" alt="Java, Spring, Hibernate, Angular, TypeScript, JavaScript, HTML, CSS, PostgreSQL, MySQL, MongoDB, Redis and Kafka" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=maven,git,github,postman,docker,jenkins,aws,vscode" alt="Maven, Git, GitHub, Postman, Docker, Jenkins, AWS and VS Code" />
 </p>
 
-## 🚀 Projects
+<sub>Skill list reflects the technologies targeted in my development toolkit. Project evidence and hands-on depth should be demonstrated in the linked repositories.</sub>
 
-The projects below are the portfolio work I’m building toward. I’ll link each repository and update its status as the implementation and documentation are completed.
+## 🏗️ How I Approach Development
 
-### 1. Airline Reservation & Flight Management System
+<div align="center">
+
+<img src="https://mermaid.ink/img/pako:eNqVkc1qwzAMx1_F6JQh2yZtW7Zs2G0H2aF0aJp0KcY2aYq0kq2b2y2b0t3fQ2m0s7v_8v8hQ0Q0?type=png" alt="Software delivery workflow" />
+
+</div>
+
+1. **Understand** — identify the user need, requirements, and edge cases.
+2. **Design** — define API contracts, data models, and component responsibilities.
+3. **Build** — implement business logic with clear controller, service, and repository layers.
+4. **Integrate** — connect Angular screens to backend REST endpoints.
+5. **Verify** — test success paths, validation failures, authorization, and data integrity.
+6. **Document** — provide setup steps, endpoint details, and implementation decisions.
+
+## 🚀 Featured Portfolio Projects
+
+These are portfolio projects in progress/planned scope. I’ll add repository links, screenshots, and verified implementation details as each project is completed.
+
+### ✈️ 1. Airline Reservation & Flight Management System
+
 A full-stack application concept for searching flights and managing passenger reservations.
 
-- Design REST endpoints for flight search, passenger details, bookings, and cancellations.
-- Model flights, schedules, passengers, and reservations with relational database relationships.
-- Implement request validation, consistent error responses, and service-layer business rules.
-- Connect a React interface to the Spring Boot backend.
+**Key features**
+- Search and filter available flights by route and travel date.
+- Manage passenger information and reservation records.
+- Create, view, and cancel bookings with validation.
+- Expose REST APIs with consistent response and error handling.
+- Build Angular screens for flight search and booking workflows.
 
-**Planned stack:** Java · Spring Boot · Spring Data JPA · PostgreSQL · React
+**Planned stack:** Java · Spring Boot · Spring Data JPA · PostgreSQL · Angular
 
-### 2. E-Commerce Order & Inventory Management
-A backend-focused application for managing products, stock, customer orders, and order status.
+### 🛒 2. E-Commerce Order & Inventory Management System
 
-- Build CRUD APIs for products, categories, and inventory.
-- Implement order placement and stock updates with transaction boundaries.
-- Separate controller, service, repository, and DTO responsibilities.
-- Add validation and tests for important order and inventory scenarios.
+A business application concept for managing a product catalogue, inventory, and customer orders.
 
-**Planned stack:** Java · Spring Boot · Hibernate/JPA · PostgreSQL · React
+**Key features**
+- Create and manage products, categories, and stock levels.
+- Implement order placement and inventory updates using transactions.
+- Separate API, business, and persistence layers.
+- Validate requests and handle insufficient-stock scenarios.
+- Provide Angular views for product and order management.
 
-### 3. JWT Authentication & Authorization Service
-A focused security project demonstrating authentication and protected API access.
+**Planned stack:** Java · Spring Boot · Hibernate / JPA · PostgreSQL · Angular
 
-- Register users and store passwords using a secure password-hashing mechanism.
+### 🔐 3. JWT Authentication & Authorization Service
+
+A focused backend project demonstrating secure authentication and protected API access.
+
+**Key features**
+- Register users and securely hash passwords before storage.
 - Authenticate credentials and issue signed access tokens.
-- Validate tokens on protected endpoints and enforce role-based authorization.
-- Handle invalid, expired, and missing tokens with consistent HTTP responses.
+- Validate tokens for protected endpoints.
+- Apply role-based authorization to selected operations.
+- Handle expired, invalid, and missing tokens consistently.
 
-**Planned stack:** Java · Spring Security · JWT · Spring Boot · PostgreSQL
+**Planned stack:** Java · Spring Boot · Spring Security · JWT · PostgreSQL
 
-## 📌 Engineering Principles
+## 🧪 Engineering Practices
 
-- **Readable code:** meaningful names, small methods, and clear responsibilities.
-- **API consistency:** predictable routes, status codes, validation, and error responses.
-- **Security:** never commit secrets; hash passwords and validate tokens correctly.
-- **Data integrity:** use appropriate constraints and transactions.
-- **Testing:** verify business rules and failure cases, not just the happy path.
-- **Documentation:** explain setup, architecture, endpoints, and trade-offs in each project README.
+- **Clean architecture:** keep controllers thin and business logic in services.
+- **Maintainability:** use meaningful names, focused methods, and reusable components.
+- **API standards:** use suitable HTTP methods, status codes, DTOs, and validation.
+- **Security basics:** never commit secrets or plaintext passwords; protect sensitive endpoints.
+- **Data integrity:** use constraints and transactions where business operations require them.
+- **Testing:** cover business rules, edge cases, and failure scenarios.
+- **Version control:** make focused commits and keep project documentation current.
 
-## 📊 GitHub Snapshot
+## 🎯 Current Focus
+
+- Deepening Core Java and Spring Boot fundamentals.
+- Building secure REST APIs with Spring Security and JWT.
+- Practising Angular components, services, routing, and API integration.
+- Improving SQL, JPA mappings, and transaction handling.
+- Learning practical microservices and deployment workflows.
+
+## 📈 GitHub Activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pintu-517892&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
@@ -116,10 +150,10 @@ A focused security project demonstrating authentication and protected API access
 
 <div align="center">
 
-### Thanks for stopping by.
+### Thanks for visiting my profile.
 
-*Open to learning, building, and collaborating on meaningful software projects.*
+**Focused on learning continuously and building software with purpose.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:164E63,100:0F172A&height=100&section=footer" alt="Decorative footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:123C55,100:101827&height=110&section=footer" alt="Decorative footer" />
 
 </div>
